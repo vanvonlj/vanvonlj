@@ -54,6 +54,14 @@ Building tools, automating infrastructure, and tinkering with AI agents.
   <img src="https://img.shields.io/badge/ZimaBoard-1a1a2e?style=for-the-badge&logo=intel&logoColor=white" />
 </p>
 
+### Runs on Linux
+
+<p>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zorin_OS-15A6F0?style=for-the-badge&logo=zorin&logoColor=white" />
+</p>
+
 ---
 
 <div align="center">
